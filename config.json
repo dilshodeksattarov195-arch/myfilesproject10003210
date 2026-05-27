@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycender",
+        "uuid": 15767520,
+        "checksum": "b9rxi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
